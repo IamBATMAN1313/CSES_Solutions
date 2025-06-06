@@ -1,0 +1,7 @@
+*.exe
+*.out
+*.log
+*.bin
+*.prob
+*.cph
+*.vscode
